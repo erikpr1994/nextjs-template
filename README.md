@@ -2,7 +2,7 @@
 
 Next.js + Claude Code config, ready for a new idea.
 
-- **Skills**: Vercel (`vercel-labs/agent-skills`) and Matt Pocock (`mattpocock/skills`) in `.claude/skills`, pinned in `skills-lock.json`.
+- **Skills**: relevant ones from Vercel (`vercel-labs/agent-skills`) and Emil Kowalski (`emilkowalski/skills`), all of Matt Pocock (`mattpocock/skills`), pinned in `skills-lock.json`.
 - **Plugins**: impeccable and ponytail, via `.claude/settings.json` (auto-updating marketplaces).
 - **MCP**: lazyweb, via `.mcp.json`. Export `LAZYWEB_API_KEY` in your shell.
 - **Updates**: Dependabot runs daily and green PRs auto-merge; `Update skills` workflow refreshes skills daily. Both land on `main`.
